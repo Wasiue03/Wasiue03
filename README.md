@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasiue</h1>
-<h3 align="center">A passionate Computer Scientist and Data Scientist</h3>
+<h3 align="center">A passionate Computer Scientist</h3>
 
 <img align="right" alt="wasi" alt="Me" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiue03&label=Profile%20views&color=0e75b6&style=flat" alt="wasiue03" /> </p>
