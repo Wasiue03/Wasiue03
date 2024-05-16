@@ -4,11 +4,11 @@
 <img align="right" alt="wasi" alt="Me" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiue03&label=Profile%20views&color=0e75b6&style=flat" alt="wasiue03" /> </p>
 
-- 🔭 I’m currently working on **Mobile Application**
+- 🔭 I’m currently working on **MLops and Data Science**
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m currently spending most of time in **Model Development and Optimization**
 
-- 👯 I’m looking to collaborate on **Machine Learning Models**
+- 👯 I’m looking to collaborate on **ML/DL Models**
 
 - 💬 Ask me about **Data Science and Machine Learning**
 
