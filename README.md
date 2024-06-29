@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **ML/DL Models**
 
-- 💬 Ask me about **Data Science and Machine Learning**
+- 💬 Ask me about **Data Science - Software Development - MLops**
 
 - 📫 How to reach me **abdulwasiueunk@gmail.com**
 
