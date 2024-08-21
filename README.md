@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently spending most of time in **Model Development and Optimization**
 
-- 👯 I’m looking to collaborate on **ML/DL Models**
+- 👯 I’m looking to collaborate on **ML/Gen AI Models**
 
-- 💬 Ask me about **Data Science - Software Development - MLops**
+- 💬 Ask me about **Data Science - Gen AI - MLops**
 
 - 📫 How to reach me **abdulwasiueunk@gmail.com**
 
