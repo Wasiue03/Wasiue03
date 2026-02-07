@@ -4,13 +4,13 @@
 <img align="right" alt="wasi" alt="Me" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasiue03&label=Profile%20views&color=0e75b6&style=flat" alt="wasiue03" /> </p>
 
-- 🔭 I’m currently working on **MLops and Data Science**
+- 🔭 I’m currently invlolved in **Data wraehousing and Data pipelines**
 
-- 🌱 I’m currently spending most of time in **Model Development and Optimization**
+- 🌱 I’m currently spending most of time in **On technical writing with POCs**
 
-- 👯 I’m looking to collaborate on **ML/Gen AI Models**
+- 👯 I’m looking to collaborate on **On data migration, BI and transfomration**
 
-- 💬 Ask me about **Data Science - Gen AI - MLops**
+- 💬 Ask me about **Data Science - Business Intelligence - Data Engineering**
 
 - 📫 How to reach me **abdulwasiueunk@gmail.com**
 
